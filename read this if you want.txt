@@ -1,0 +1,4 @@
+# NALLELAND-EMUJS
+Nalleland in EmulatorJS [Browser] this is for a localhost server.
+
+This was a premade EmulatorJS setup made in Visual Studio Code, this was a project I wanted to make before school was over.
